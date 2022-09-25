@@ -1,0 +1,3 @@
+[submodule "Chess-Engine/vendor/Gem"]
+	path = Chess-Engine/vendor/Gem
+	url = https://github.com/vetarN9/Gem
